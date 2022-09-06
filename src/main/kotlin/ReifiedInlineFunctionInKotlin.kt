@@ -1,7 +1,7 @@
 /**
  * -> Reified is a special keyword that helps kotlin developer to access Information related class at runtime
  *
- * -> Reified can only used with inline function
+ * -> Reified can only be used with inline function
  *
  * -> The generic type T will be assigned to the type of the value it gets as an argument
  */

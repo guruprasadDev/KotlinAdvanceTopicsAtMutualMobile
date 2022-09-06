@@ -5,8 +5,8 @@ fun  main(){
     println("ArrayList string value $s")
     printValue(arrayListString)
 
-    val arrayLongistFloat : ArrayList<Float> = arrayListOf(100f,300f,400.0f)
-    printValue(arrayLongistFloat)
+    val arrayListFloat : ArrayList<Float> = arrayListOf(100f,300f,400.0f)
+    printValue(arrayListFloat)
 
 }
 

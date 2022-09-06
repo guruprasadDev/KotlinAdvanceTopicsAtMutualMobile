@@ -5,14 +5,15 @@ fun  main(){
     println("ArrayList string value $s")
     printValue(arrayListString)
 
-    val arrayListFloat : ArrayList<Float> = arrayListOf(100f,300f,400.0f)
-    printValue(arrayListFloat)
+    val arrayLongistFloat : ArrayList<Float> = arrayListOf(100f,300f,400.0f)
+    printValue(arrayLongistFloat)
 
 }
 
 fun <T> printValue(list: ArrayList<T>) {
 
     for(generics in list){
+        println("")
         println(generics)
     }
 

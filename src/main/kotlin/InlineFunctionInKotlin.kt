@@ -8,9 +8,7 @@
  */
 
 fun main(){
-
     inlineFunction { println("Calling the inline function") }
-
 }
 
 inline fun inlineFunction(fu: ()-> Unit){

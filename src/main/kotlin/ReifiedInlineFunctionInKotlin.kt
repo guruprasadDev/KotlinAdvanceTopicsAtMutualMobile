@@ -5,8 +5,6 @@
  *
  * -> The generic type T will be assigned to the type of the value it gets as an argument
  */
-
-
 inline fun <reified T> myFunction(name : T) {
 
     println("\n name of your car -> $name")

@@ -1,3 +1,8 @@
+/**
+ Reflection in kotlin [::]
+        Reflection is a set of language and library features that allows to introspect the structure of your program at runtime
+ */
+
 
 class ReflectionInKotlin{
 

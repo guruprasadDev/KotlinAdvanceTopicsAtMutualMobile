@@ -16,6 +16,8 @@ How to Distinguish between Scope Function ?
     --> 'run' is combination of 'with' and 'let'
 
     --> If you want to operate a nullable object and avoid NullPointerException the use 'run'
+
+    --> run :- if you want to operate on a nullable object, execute lambda expression and avoid NullPointerException
  */
 
 

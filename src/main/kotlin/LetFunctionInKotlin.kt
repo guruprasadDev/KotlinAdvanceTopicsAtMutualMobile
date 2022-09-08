@@ -10,6 +10,8 @@ How to Distinguish between Scope Function ?
 /**
     Scope Function 'let'
 
+    Let : if you want to just execute lambda expression on a nullable object and avoid NullPointerEception
+
     Property 1 : Refer to context object by using 'it'
     Property 2 : The return value is the 'lambda result'
 

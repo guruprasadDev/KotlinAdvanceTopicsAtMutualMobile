@@ -10,6 +10,8 @@ How to Distinguish between Scope Function ?
 /**
      Scope function : 'apply'
 
+            --> if you want to initialise or configure an object
+
         Property 1: Refer to context object by using 'this' keyword
           Property 2: the return value is the 'context object'
  */

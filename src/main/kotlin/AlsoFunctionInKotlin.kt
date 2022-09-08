@@ -10,6 +10,8 @@ How to Distinguish between Scope Function ?
  /**
      Scope function 'also'
 
+        -->also : if you want to do some additional object configuration or operations
+
         Property1 :- Refer to context object using 'this'
         property1 :- the return value is the 'context object' 'it'
   */

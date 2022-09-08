@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11659291-89eb-4953-8395-dd479b44fe71" name="Changes" comment="initial Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ScopeFunctionRunInKotlin.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/AlsoFunctionInKotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/AlsoFunctionInKotlin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ApplyFunctionInKotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ApplyFunctionInKotlin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/LetFunctionInKotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/LetFunctionInKotlin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/RunFunctioInKotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/RunFunctioInKotlin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/WithFunctionInKotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/WithFunctionInKotlin.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,7 +204,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662625281870</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="initial Commit">
+      <created>1662626234095</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1662626234095</updated>
+    </task>
+    <task id="LOCAL-00022" summary="initial Commit">
+      <created>1662626566069</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1662626566069</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

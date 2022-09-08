@@ -8,7 +8,7 @@ How to Distinguish between Scope Function ?
  */
 
  /**
-     Scope function 'apply'
+     Scope function 'also'
 
         Property1 :- Refer to context object using 'this'
         property1 :- the return value is the 'context object' 'it'
